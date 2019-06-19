@@ -13,6 +13,11 @@ Ensure your project has been properly converted to AndroidX.
 
 Ensure you have a [Firebase](https://firebase.google.com/) account as well as a project for this example. Go through the process of registering your application as well as downloading the .json file to your project.
 
+## Example
+
+<img src="https://i.imgur.com/cqadKtD.png" width=300>
+<img src="https://i.imgur.com/YSH6I28.png" width=300>
+
 ## References
 
 - Inspired by the project [here](https://medium.com/flutter-community/flutter-mlkit-8039ec66b6a) by [Stefan Blos](https://github.com/DaemonLoki)
